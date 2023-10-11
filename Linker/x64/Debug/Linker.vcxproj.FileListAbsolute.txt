@@ -1,0 +1,1 @@
+C:\Dev\CppTutorialCherno\Linker\x64\Debug\Linker.exe
